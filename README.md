@@ -5,7 +5,7 @@ Demo to demonstrate the following feats of Akka Cluster:
 * ClusterSingleton 
 * ClusterRouterPool
 
-Check the code's associated [blog post](http://ticofab.io/akka-cluster-singleton-example/) -- it explain what goes on in some detail.
+Check the code's associated [blog post](https://ticofab.io/tech/2017-10-04-akka-cluster-singleton-example/) -- it explain what goes on in some detail.
 
 ## License
 
